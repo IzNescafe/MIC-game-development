@@ -1,0 +1,11 @@
+lua download link - https://youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU&si=TKPbAWLDjCVpurf9
+
+love2D download link - https://love2d.org/
+
+-- BEGINNER SERIES --
+lua tutorial - https://youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU&si=TKPbAWLDjCVpurf9
+love2d tutorial - https://youtube.com/playlist?list=PLYBJzqz8zpWYip5ZkTMQiOkqya9Iiefm9&si=rRyU5fd5zirxlqrH
+
+-- INTERMEDIATE SERIES --
+CS50 Game development course - https://cs50.harvard.edu/games/2018/ 
+( don't watch this if u haven't finished lua and love2D )
