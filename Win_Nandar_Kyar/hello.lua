@@ -1,0 +1,1 @@
+print("Name: username\nRoll no: 2022-MIIT-CSE-021\nBatch: 2022")
